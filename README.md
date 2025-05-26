@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Hamilton un desarrollador backend en evolución constante
+# 👋 ¡Hola! soy Hamilton, un desarrollador backend en evolución constante
 
 ¡Bienvenido a mi perfil de GitHub!  
 Soy un **desarrollador backend** apasionado por la tecnología, en especial por todo lo que gira en torno a **JavaScript**. Me encanta crear soluciones eficientes, escalables y bien estructuradas, utilizando herramientas modernas como **Node.js**, **NestJS**, **Express** y muchas otras del ecosistema JavaScript.
